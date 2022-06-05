@@ -54,7 +54,7 @@
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://maestrokielce.github.io/maestro/",
+    "siteUrl": "https://maestrokielce.github.io/maestro",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
