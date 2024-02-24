@@ -1536,50 +1536,6 @@ a {
     padding-right: 4rem;
   }
 }
-.cid-u3sgjMd7Wr {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-u3sgjMd7Wr .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u3sgjMd7Wr .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u3sgjMd7Wr .mbr-section-title,
-.cid-u3sgjMd7Wr .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-u3sgjMd7Wr .cost {
-  word-break: normal;
-}
-.cid-u3sgjMd7Wr .card-wrapper {
-  margin-bottom: 2rem;
-  border-radius: 4px;
-  background: #fafafa;
-}
-.cid-u3sgjMd7Wr .card-wrapper .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-@media (min-width: 768px) {
-  .cid-u3sgjMd7Wr .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-u3sgjMd7Wr .card-wrapper {
-    padding: 1rem;
-  }
-}
 .cid-t7vjSujSK4 {
   padding-top: 5rem;
   padding-bottom: 5rem;
